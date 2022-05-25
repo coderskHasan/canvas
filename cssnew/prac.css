@@ -145,7 +145,7 @@ ul.mane-list li:hover a::before {
     font-size: 30px;
     color: #fff;
 }
-.activeAdd{transform:scaleX(1)}
+.activeAdd{transform:scaleX(1) !importent;}
 /* hero section */
 section#hero-section {
     padding: 0px;
